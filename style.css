@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    font-family: 'Sacramento';
+    font-weight: bold;
+    font-size: 6rem;
+    color:rgb(255, 214, 252);
+}
+
+.custom-background {
+    background-color: #f0f0f0; /* Background color */
+    background-image: url('./img/vecteezy_minimalist-dark-gradient-wave-background-simple-design-for_7718309.jpg'); /* Background image URL */
+    background-size: cover; /* Adjust the background image size */
+    background-position: center; /* Adjust the background image position */
+    background-repeat: repeat; /* Prevent background image from repeating */
+    padding: 20px; /* Add some padding for spacing */
+    height: 700px;
+}
+
+.btn.btn-outline-light {
+    color:rgb(255, 214, 252); /* Change to the desired text color */
+    
+}
+.btn.btn-outline-light:hover {
+    background-color:rgb(109, 98, 109); /* Change to the desired background color on hover */
+    color: #fff; /* Change to the desired text color on hover */
+  } 
+
+.profile_photo{
+    height: 700px;
+
+}
+
+
+.custom-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: space-between;
+    gap: 5rem;
+    margin-top: 55px;
+}
+
+.btn.btn-light {
+    background-color:rgb(109, 98, 109); /* Change to the desired background color on hover */
+    color: #fff; /* Change to the desired text color on hover */
+    
+}
+.btn.btn-light:hover {
+    background-color:#fff;
+
+    color:rgb(255, 214, 252); /* Change to the desired text color */
+  } 
+
+
+  .projects-title{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(109, 98, 109);
+    font-size: 3rem;
+
+
+
+}
+
+.custom-margin-top {
+    margin-top: 100px;
+  }
