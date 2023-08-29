@@ -8,6 +8,8 @@ h1{
     color:rgb(255, 214, 252);
 }
 
+
+
 .custom-background {
     background-color: #f0f0f0; /* Background color */
     background-image: url('./img/vecteezy_minimalist-dark-gradient-wave-background-simple-design-for_7718309.jpg'); /* Background image URL */
@@ -66,3 +68,15 @@ h1{
 .custom-margin-top {
     margin-top: 100px;
   }
+
+.hovered {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+} 
+.project-section {
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+
