@@ -99,7 +99,7 @@ h1 {
 
 .contact_card {
     transition: all 0.3s ease-in-out;
-    background-color: #f0f0f0;
+    background-color: rgb(255, 255, 255);
     
 }
 
