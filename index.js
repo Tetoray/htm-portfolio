@@ -1,6 +1,5 @@
 
 
-
 var containers = document.querySelectorAll('.project-section');
 
 for (let i = 0; i < containers.length; i++) {
