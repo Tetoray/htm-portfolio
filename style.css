@@ -28,7 +28,7 @@ h1 {
 }
 
 .btn.btn-outline-light {
-    color: rgb(255, 214, 252);
+    color: rgb(255, 255, 255);
     /* Change to the desired text color */
 
 }
@@ -99,7 +99,7 @@ h1 {
 
 .contact_card {
     transition: all 0.3s ease-in-out;
-    ackground-color: white;
+    background-color: white;
     
 }
 
